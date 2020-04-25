@@ -1,0 +1,93 @@
+{
+  "galleries": [
+    {
+      "title": "Palm Sunday 2013",
+      "description": "Here's a quick glimpse into our worship service at Dutton Baptist Church. These particular pictures were taken on Palm Sunday 2013.",
+      "folder": "DuttonPalm2013",
+      "files": [
+        {
+          "file": "pic1.webp",
+          "title": "Our Church",
+          "text": "Built in 1876"
+        },
+        {
+          "file": "pic2.webp",
+          "title": "The Congragation",
+          "text": "Round and Round we go"
+        },
+        {
+          "file": "pic3.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic4.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic5.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic6.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic7.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic8.webp",
+          "title": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Good Friday 2013",
+      "description": "A quick peak into the celebration that took place at Iona Station Baptist Church on Good Friday 2013",
+      "folder": "IonaGoodFriday2013",
+      "files": [
+        {
+          "file": "pic1.webp",
+          "title": "Our Iona Station Church",
+          "text": "Built in 1821"
+        },
+        {
+          "file": "pic2.webp",
+          "title": "The Gate",
+          "text": "Come on in and rejoice"
+        },
+        {
+          "file": "pic3.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic4.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic5.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic6.webp",
+          "title": "",
+          "text": ""
+        },
+        {
+          "file": "pic7.webp",
+          "title": "",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

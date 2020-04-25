@@ -1,0 +1,68 @@
+<div class="mainPage">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light fixed-top modalbg">
+    <div class="container">
+      <img src="assets/images/newcross_tiny.png" class="rounded float-left">
+      <a class="navbar-brand brightColor" routerLink="/">&nbsp;&nbsp;&nbsp;DISBC</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item  dropdown">
+            <!-- <a class="nav-link" href="about.html">About</a> -->
+            <a class="nav-link dropdown-toggle" id="navbarDropdownPortfolio" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            About</a>
+            <div class="dropdown-menu dropdown-menu-right modalbg" aria-labelledby="navbarDropdownPortfolio">
+              <a class="dropdown-item brightColorBold" routerLink="about">A Two-Point Charge</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/dutton">Dutton Baptist Church</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/iona">Iona Station Baptist Church</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/media">Media</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/pastor">Rev. Michael Nicholson</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/events">Events</a>
+              <a class="dropdown-item brightColorBold" routerLink="about/links">Links</a>
+            </div>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Ministries
+            </a>
+            <div class="dropdown-menu dropdown-menu-right modalbg" aria-labelledby="navbarDropdownPortfolio">
+              <a class="dropdown-item brightColorBold" routerLink="ministry/youth">Youth Ministries</a>
+              <a class="dropdown-item brightColorBold" routerLink="ministry/women">Women Ministries</a>
+              <a class="dropdown-item brightColorBold" routerLink="ministry/men">Men Ministries</a>
+              <a class="dropdown-item brightColorBold" routerLink="ministry/sunday">Sunday School</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="sermons">Podcasts</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="videos">Videos</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" routerLink="contact">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="routing">
+    <router-outlet></router-outlet>
+  </div>
+
+  <footer class="modalbg">
+
+    <p>© 2013-2020 by Dutton/Iona Station Baptist Churches. all rights preserved.</p>
+
+  </footer>
+ 
+
+</div>
+<!-- Whole page -->

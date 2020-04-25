@@ -1,0 +1,38 @@
+{
+  "liveEvents": [
+    {
+      "title": "Home & Away",
+      "description": "SERIES: 2 Corinthians 5:1-10; Home & Away",
+      "date": "19-April-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "b_IFKX3d8qg"
+    },{
+      "title": "2020 Easter Sunday Serice",
+      "description": "He Has Risen!",
+      "date": "12-April-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "esd1EUTZ-I0"
+    },
+    {
+      "title": "2020 Good Friday Message",
+      "description": "This is not your average Good Friday!",
+      "date": "10-April-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "VAGzhMoxPuk"
+    },
+    {
+      "title": "Not That Kind of King",
+      "description": "'Not That Kind of King' John 12 : 12-19",
+      "date": "05-April-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "zc3UPG-pFDw"
+    },
+    {
+      "title": "Does God Care?",
+      "description": "Three reoccurring questions in a crisis",
+      "date": "29-Mar-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "21Jz6PbypS4"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "motives": [
+    {
+      "title": "Our Specials: Always Trust In Jesus",
+      "folder": "specials",
+      "image": "JesusInBoat2.jpg",
+      "description": "Our Specials",
+      "date": "2020",
+      "sermons": [
+        {
+          "file": "April 12, 2020.mp3",
+          "title": "Easter Is Still On!",
+          "date": "April 12, 2020"
+        },
+        {
+          "file": "Mar 22, 2020.mp3",
+          "title": "Calming the Storm",
+          "date": "Mar 22, 2020"
+        }
+      ]
+    },
+    {
+      "title": "2nd letter to the Corinthians",
+      "folder": "corinthians_2",
+      "image": "corinthians_2.png",
+      "description": "Second Corinthians Series",
+      "date": "Jan 2020",
+      "sermons": [
+        {
+          "file": "April 26, 2020.mp3",
+          "title": "2 Corinthians: Motivation for Ministry",
+          "date": "April 26, 2020"
+        },
+        {
+          "file": "April 19, 2020.wav",
+          "title": "2 Corinthians: Home & Away",
+          "date": "April 19, 2020"
+        },
+        {
+          "file": "Mar 15, 2020.mp3",
+          "title": "2 Corinthians: Don't be a Navel Gazer",
+          "date": "Mar 15, 2020"
+        },
+        {
+          "file": "Mar 8, 2020.mp3",
+          "title": "2 Corinthians: Treasure in Clay Jars",
+          "date": "Mar 8, 2020"
+        },
+        {
+          "file": "Feb 23, 2020.mp3",
+          "title": "2 Corinthians: With Unveiled Faces",
+          "date": "Feb 23, 2020"
+        },
+        {
+          "file": "Feb 16, 2020.mp3",
+          "title": "2 Corinthians: Authentic & Sufficient",
+          "date": "Feb 16, 2020"
+        },
+        {
+          "file": "Feb 9, 2020.mp3",
+          "title": "2 Corinthians: The Aroma of the Gospel",
+          "date": "Feb 9, 2020"
+        },
+        {
+          "file": "Feb 2, 2020.mp3",
+          "title": "2 Corinthians: Love & Discipline",
+          "date": "Feb 2, 2020"
+        },
+        {
+          "file": "Jan 19, 2020.mp3",
+          "title": "2 Corinthians: The Purpose of Affliction",
+          "date": "Jan 19, 2020"
+        },
+        {
+          "file": "Jan 12, 2020.mp3",
+          "title": "2 Corinthians: Affliction & Comfort",
+          "date": "Jan 12, 2020"
+        },
+        {
+          "file": "Jan 5, 2020.mp3",
+          "title": "2 Corinthians: An Introduction",
+          "date": "Jan 5, 2020"
+        }
+      ]
+    },
+    {
+      "title": "The Book of Malachi",
+      "folder": "malachi",
+      "image": "malachi.jpg",
+      "description": "Malachi Series",
+      "date": "Fall 2019",
+      "sermons": [
+        {
+          "file": "Sept 1, 2019.mp3",
+          "title": "Malachi: An Introduction",
+          "date": "Sept 1, 2019"
+        },
+        {
+          "file": "Sept 8, 2019.mp3",
+          "title": "Malachi: God's Love for His People",
+          "date": "Sept 8, 2019"
+        },
+        {
+          "file": "Sept 22, 2019.mp3",
+          "title": "Malachi: The Heart of Worship",
+          "date": "Sept 22, 2019"
+        },
+        {
+          "file": "Sept 29, 2019.mp3",
+          "title": "Malachi,2:1-9: Priests in Gods Kingdom. ",
+          "date": "Sept 29, 2019"
+        },
+        {
+          "file": "Oct 6, 2019.mp3",
+          "title": "Malachi, 2:10-16: A Call To Faithfulness",
+          "date": "Oct 6, 2019"
+        },
+        {
+          "file": "Oct 13, 2019.mp3",
+          "title": "Malachi, 2:17-3:5: God's Refining Fire",
+          "date": "Oct 13, 2019"
+        },
+        {
+          "file": "Oct 20, 2019.mp3",
+          "title": "Malachi, 3:6-12: A Keeping Problem",
+          "date": "Oct 20, 2019"
+        },
+        {
+          "file": "Nov 24, 2019.mp3",
+          "title": "Malachi, 4:1-6: Which Side are You On?",
+          "date": "Nov 24, 2019"
+        }
+      ]
+    },
+    {
+      "title": "Songs of Christmas",
+      "folder": "xmas",
+      "image": "xmas.jpg",
+      "description": "Songs of Christmas Series",
+      "date": "Advent 2015",
+      "sermons": [
+        {
+          "file": "Nov 29, 2015.mp3",
+          "title": "The Songs of Christmas: Come",
+          "date": "Nov 29, 2015"
+        },
+        {
+          "file": "Dec 6, 2015.mp3",
+          "title": "The Songs of Christmas: Bethlehem ",
+          "date": "Dec 6, 2015"
+        },
+        {
+          "file": "Dec 13, 2015.mp3",
+          "title": "The Songs of Christmas: Angels ",
+          "date": "Dec 13, 2015"
+        },
+        {
+          "file": "Dec 20, 2015.mp3",
+          "title": "The Songs of Christmas: Who is He?",
+          "date": "Dec 20, 2015"
+        }
+      ]
+    },
+    {
+      "title": "The Book of Esther",
+      "folder": "esther",
+      "image": "esther.jpg",
+      "description": "Esther Series",
+      "date": "2017",
+      "sermons": [
+        {
+          "file": "Sept 3, 2017.mp3",
+          "title": "God Behind the Seen: An Introduction <br> Esther 1:1",
+          "date": "Sept 3, 2017"
+        },
+        {
+          "file": "Sept 10, 2017.mp3",
+          "title": "God Behind the Seen: Who\u0027s the Real King Anyway? <br> Esther 1:1-22",
+          "date": "Sept 10, 2017"
+        },
+        {
+          "file": "Sept 24, 2017.mp3",
+          "title": "God Behind the Seen: A (Seedy) Cinderella Story <br> Esther 2:1-18",
+          "date": "Sept 24, 2017"
+        },
+        {
+          "file": "Oct 1, 2017.mp3",
+          "title": "God Behind the Seen: The Plot Thickens <br> Esther 2:19-3:15",
+          "date": "Oct 1, 2017"
+        },
+        {
+          "file": "Oct 8, 2017.mp3",
+          "title": "God Behind the Seen: Defining Moments <br> Esther 4:1-17",
+          "date": "Oct 8, 2017"
+        },
+        {
+          "file": "Oct 15, 2017.mp3",
+          "title": "God Behind the Seen: A Step of Faith <br> Esther 5:1-14",
+          "date": "Oct 15, 2017"
+        },
+        {
+          "file": "Nov 12, 2017.mp3",
+          "title": "God Behind the Seen: Poetic Justice <br> Esther 7:1-10",
+          "date": "Nov 12, 2017"
+        },
+        {
+          "file": "Nov 19, 2017.mp3",
+          "title": "God Behind the Seen: My How the Tables Have Turned <br> Esther 8:1-9:19",
+          "date": "Nov 19, 2017"
+        },
+        {
+          "file": "Nov 26, 2017.mp3",
+          "title": "God Behind the Seen: Something Worth Celebrating <br> Esther 9:20-10:3",
+          "date": "Nov 26, 2017"
+        }
+      ]
+    },
+    {
+      "title": "Revelation",
+      "folder": "revelation",
+      "image": "revelation.jpg",
+      "description": "A year long sermon series by our pastor Michael Nicholson, without excuses",
+      "date": "2018-2019",
+      "sermons": [
+        {
+          "file": "Jan 7, 2018.mp3",
+          "title": "Revelation: An Introduction  <br>  Revelation 1:1-4",
+          "date": "Jan 7, 2018"
+        },
+        {
+          "file": "Jan 14, 2018.mp3",
+          "title": "Revelation: Another  Introduction  <br>  Revelation 1:1-8",
+          "date": "Jan 14, 2018"
+        },
+        {
+          "file": "Jan 21, 2018.mp3",
+          "title": "Revelation: This is Jesus <br> Revelation 1:9-20",
+          "date": "Jan 21, 2018"
+        },
+        {
+          "file": "Jan 28, 2018.mp3",
+          "title": "Revelation: First Love <br> Revelation 2:1-7",
+          "date": "Jan 28, 2018"
+        },
+        {
+          "file": "March 11, 2018.mp3",
+          "title": "Revelation: Knock, Knock <br> Revelation 3:14-22",
+          "date": "Mar 11, 2018"
+        },
+        {
+          "file": "Mar 18, 2018.mp3",
+          "title": "Revelation: A Review of Chapters 1-3 <br> Revelation 1-3",
+          "date": "March 18, 2018"
+        },
+        {
+          "file": "Apr 8, 2018.mp3",
+          "title": "Revelation: The Way of the Lamb <br> Revelation 4-5",
+          "date": "April 8, 2018"
+        },
+        {
+          "file": "Apr 22, 2018.mp3",
+          "title": "Revelation: What is Going on Here?! <br> Revelation 6:1-8",
+          "date": "April 22, 2018"
+        },
+        {
+          "file": "May 6, 2018.mp3",
+          "title": "Revelation: Whoa!  That\u0027s a lot of People! <br> Revelation 7:1-8",
+          "date": "May 6, 2018"
+        },
+        {
+          "file": "May 13, 2018.mp3",
+          "title": "Revelation: He Saw What? <br> Revelation 7:9-17",
+          "date": "May 13, 2018"
+        },
+        {
+          "file": "June 3, 2018.mp3",
+          "title": "Revelation: Sound the Trumpet <br> Revelation 8:1-12",
+          "date": "June 3, 2018"
+        },
+        {
+          "file": "June 10, 2018.mp3",
+          "title": "Revelation: Locusts, Locusts Everywhere! <br> Revelation 8:13-9:12",
+          "date": "June 10, 2018"
+        },
+        {
+          "file": "June 17, 2018.mp3",
+          "title": "Revelation: Here Comes the Cavalry <br> Revelation 9:13-21",
+          "date": "June 17, 2018"
+        },
+        {
+          "file": "June 24, 2018.mp3",
+          "title": "Revelation: Here! Eat This <br> Revelation 10:1-11",
+          "date": "June 24, 2018"
+        },
+        {
+          "file": "July 8, 2018.mp3",
+          "title": "Revelation: Two Witnesses (Part 1) <br> Revelation 11:1-14",
+          "date": "July 8, 2018"
+        },
+        {
+          "file": "July 15, 2018.mp3",
+          "title": "Revelation: Two Witnesses (Part 2) <br> Revelation 11:1-14",
+          "date": "July 15, 2018"
+        },
+        {
+          "file": "July 22, 2018.mp3",
+          "title": "Revelation: Hallelujah! <br> Revelation 11:15-19",
+          "date": "July 22, 2018"
+        },
+        {
+          "file": "July 29, 2018.mp3",
+          "title": "Revelation: Review \u0026 Remind <br> Revelation 1-11",
+          "date": "July 29, 2018"
+        },
+        {
+          "file": "Sept 2, 2018.mp3",
+          "title": "Revelation: The Cosmic War <br> Revelation 12:1-6",
+          "date": "Sept 2, 2018"
+        },
+        {
+          "file": "Sept 9, 2018.mp3",
+          "title": "Revelation: Down Goes the Dragon <br> Revelation 12:7-18",
+          "date": "Sept 9, 2018"
+        },
+        {
+          "file": "Sept 23, 2018.mp3",
+          "title": "Revelation: Here Comes the Beast <br> Revelation 13:1-10",
+          "date": "Sept 23, 2018"
+        },
+        {
+          "file": "Sept 30, 2018.mp3",
+          "title": "Revelation: The Mark of the Beast <br> Revelation 13:11-18",
+          "date": "Sept 30, 2018"
+        },
+        {
+          "file": "Oct 7, 2018.mp3",
+          "title": "Revelation: the Mark(s) of a Christian <br> Revelation 14:1-5",
+          "date": "Oct 7, 2018"
+        },
+        {
+          "file": "Oct 14, 2018.mp3",
+          "title": "Revelation: The Destiny of the Unrighteous <br> Revelation 14:6-13",
+          "date": "Oct 14, 2018"
+        },
+        {
+          "file": "Oct 21, 2018.mp3",
+          "title": "Revelation: The Grapes of Wrath <br> Revelation 14:14-20",
+          "date": "Oct 21, 2018"
+        },
+        {
+          "file": "Oct 28, 2018.mp3",
+          "title": "Revelation: Sing a New Song <br> Revelation 15:1-4",
+          "date": "Oct 28, 2018"
+        },
+        {
+          "file": "Nov 4, 2018.mp3",
+          "title": "Revelation: The Seven Bowls Part 1 <br> Revelation 15:5-16:9",
+          "date": "Nov 4, 2018"
+        },
+        {
+          "file": "Nov 11, 2018.mp3",
+          "title": "Revelation: The Seven Bowls Part 2 <br> Revelation 16:10-16",
+          "date": "Nov 11, 2018"
+        },
+        {
+          "file": "Nov 18, 2018.mp3",
+          "title": "Revelation: The Seven Bowls Part 3 <br> Revelation 16:17-21",
+          "date": "Nov 18, 2018"
+        },
+        {
+          "file": "Nov 25, 2018.mp3",
+          "title": "Revelation: The Way of the World <br> Revelation 17:1-6",
+          "date": "Nov 25, 2018"
+        },
+        {
+          "file": "Jan 6, 2019.mp3",
+          "title": "Revelation: Review, Remind, Recap <br> Revelation 1:1-17:6",
+          "date": "Jan 6, 2019"
+        },
+        {
+          "file": "Jan 13, 2019.mp3",
+          "title": "Revelation: Falling, Falling, Falling <br> Revelation 17:7-18",
+          "date": "Jan 13, 2019"
+        },
+        {
+          "file": "Jan 20, 2019.mp3",
+          "title": "Revelation: Christ(ians) \u0026 Culture <br> Revelation 18:1-8",
+          "date": "Jan 20, 2019"
+        },
+        {
+          "file": "Jan 27, 2019.mp3",
+          "title": "Revelation: Destruction Described <br> Revelation 18:9-24",
+          "date": "Jan 27, 2019"
+        },
+        {
+          "file": "Feb 3, 2019.mp3",
+          "title": "Revelation: Praise the Lord! <br> Revelation 19:1-5",
+          "date": "Feb 3, 2019"
+        },
+        {
+          "file": "Feb 10, 2019.mp3",
+          "title": "Revelation: The Bride of Christ <br> Revelation 19:6-8",
+          "date": "Feb 10, 2019"
+        },
+        {
+          "file": "Feb 17, 2019.mp3",
+          "title": "Revelation: Worship Only God <br> Revelation 19:9-10",
+          "date": "Feb 17, 2019"
+        },
+        {
+          "file": "Feb 24, 2019.mp3",
+          "title": "Revelation: Jesus Wins! <br> Revelation 19:11-21",
+          "date": "Feb 24, 2019"
+        },
+        {
+          "file": "Mar 31, 2019.mp3",
+          "title": "Revelation: Reigning With Jesus  <br> Revelation 20:4-6",
+          "date": "Mar 31, 2019"
+        },
+        {
+          "file": "Apr 7, 2019.mp3",
+          "title": "Revelation: Satan\u0027s Defeat <br> Revelation 20:7-10",
+          "date": "Apr 7, 2019"
+        },
+        {
+          "file": "Apr 28, 2019.mp3",
+          "title": "Revelation: Open the Book! <br> Revelation 20:11-15",
+          "date": "Apr 28, 2019"
+        },
+        {
+          "file": "May 5, 2019.mp3",
+          "title": "Revelation: All Things New <br> Revelation 21:1-4",
+          "date": "May 5, 2019"
+        },
+        {
+          "file": "May 12, 2019.mp3",
+          "title": "Revelation: All Things New Part 2 <br> Revelation 21:5-8",
+          "date": "May 12, 2019"
+        },
+        {
+          "file": "June 16, 2019.mp3",
+          "title": "Revelation: The Holy City Part 1 <br> Revelation 21:9-14",
+          "date": "June 16, 2019"
+        },
+        {
+          "file": "June 23, 2019.mp3",
+          "title": "Revelation: The Holy City Part 2 <br> Revelation 21:15-21",
+          "date": "June 23, 2019"
+        },
+        {
+          "file": "June 30, 2019.mp3",
+          "title": "Revelation: The Holy City Part 3 <br> Revelation 21:22-27",
+          "date": "June 30, 2019"
+        },
+        {
+          "file": "July 7, 2019.mp3",
+          "title": "Revelation: WOW! <br> Revelation 22:1-5",
+          "date": "July 7, 2019"
+        },
+        {
+          "file": "July 21, 2019.mp3",
+          "title": "Revelation: Closing Remarks Part 1 <br> Revelation 22:6-16",
+          "date": "July 21, 2019"
+        },
+        {
+          "file": "July 28, 2019.mp3",
+          "title": "Revelation: Closing Remarks Part 2 <br> Revelation 22:17-21",
+          "date": "July 28, 2019"
+        }
+      ]
+    }
+  ]
+}

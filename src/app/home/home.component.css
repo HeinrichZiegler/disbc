@@ -1,0 +1,27 @@
+#certussoft_business {
+    background-image: url('/assets/images/Christ.jpg');
+    padding-left: 50%;
+    color: lime;
+}
+
+.church_message {
+    color: darkblue;
+    background: rgba(253, 174, 4, 0.5);
+    border-radius: 10%;
+
+}
+
+.services {
+    background-origin: content-box;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 10%;
+    border-radius: 10%;
+}
+
+.church_text{
+    color:black;
+}
+
+.service_text {
+    font-size: 150%;
+}

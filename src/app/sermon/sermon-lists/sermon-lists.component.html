@@ -1,0 +1,49 @@
+<h1>Pastor Mike's Podcasts</h1>
+
+<table class="responstable">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th></th>
+      <th>Description</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody *ngIf="sermonList">
+    <tr *ngFor="let sermon of sermonList" (click)="showSermons(sermon)">
+      <td class="title_col_header">{{sermon.title}}</td>
+      <td><img src="{{sermon.image}}" alt="{{sermon.image}}"> </td>
+      <td class="desc_col_header">{{sermon.description}}</td>
+      <td class="date_col_header">{{sermon.date}}</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<div *ngIf="detailSermonTitle">
+
+  <h2>{{detailSermonTitle}}<button mat-button (click)="showAll()">X</button></h2>
+
+  <table class="responstable detailSermon">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Date</th>
+        <th>Play</th>
+      </tr>
+    </thead>
+    <tbody *ngIf="detailSermons">
+      <tr *ngFor="let sermon of detailSermons">
+          <td class="title_col" ><span [ngStyle]="sermon.played == '1' && {'color': 'red'}" [innerHTML]="sermon.title"></span></td>
+          <td class="date_col">{{sermon.date}}</td>
+          <td><audio controls (play)="rememberMe(sermon.title)">
+              <source src="{{sermon.file}}" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </td>
+      </tr>
+
+    </tbody>
+  </table>
+
+</div>

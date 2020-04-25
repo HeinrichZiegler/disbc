@@ -1,0 +1,27 @@
+<div class="container" *ngIf="myFiles">
+    <div class="card " id="certussoft_business">
+        <div class="card-body">
+            <h3 class="my-4">Events</h3>
+            <p>
+                Find here an overview of current and past events, we organized or participated in</p>
+        </div>
+    </div>
+    <br>
+    <div class="row" *ngFor="let event of myFiles.events">
+        <div class="col-md-12 mb-3">
+            <div class="card h-100 text-center gallery">
+
+                <ngb-carousel *ngIf="myFiles">
+                    <ng-template ngbSlide *ngFor="let myFile of event.files">
+                        <img [src]="myFile.file" alt="{{myFile}}" class="w-100 h-80">
+                        <div class="carousel-caption">
+                            <h3>{{myFile.title}}</h3>
+                            <p>{{myFile.text}}</p>
+                        </div>
+                    </ng-template>
+                </ngb-carousel>
+            </div>
+        </div>
+
+    </div>
+</div>

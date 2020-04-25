@@ -1,0 +1,21 @@
+.newsletter-text {
+    border: 2px solid white;
+    padding: 50px;
+    margin: 0 auto;
+    position: relative;
+    max-width: 500px;
+    border-radius: 25px;
+}
+
+.newsletter-text h2 {
+    color: white;
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.select:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}

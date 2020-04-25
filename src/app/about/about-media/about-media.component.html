@@ -1,0 +1,35 @@
+<div class="container"  *ngIf="myFiles">
+  <div class="card " id="certussoft_business">
+    <div class="card-body">
+      <h3 class="my-4">Picture Galleries</h3>
+      <p>
+        A Glimpse into life and Worship at Dutton and Iona Station Baptist Churches</p>
+    </div>
+  </div>
+  <br>
+  <div class="row"  *ngFor="let gal of myFiles.galleries">
+    <div class="col-md-8 mb-3">
+      <div class="card h-58 text-center gallery">
+
+        <ngb-carousel  *ngIf="myFiles">
+          <ng-template ngbSlide *ngFor="let myFile of gal.files">
+            <img [src]="myFile.file" alt="{{myFile}}">
+            <div class="carousel-caption">
+              <h3>{{myFile.title}}</h3>
+              <p>{{myFile.text}}</p>
+            </div>
+          </ng-template>
+        </ngb-carousel>
+      </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card church_message gallery">
+          <div class="card-body">
+            <h4 class="card-title">{{gal.title}}</h4>
+            <p class="church_text">{{gal.description}}</p>
+          </div>
+    
+        </div>
+      </div>
+  </div>
+</div>
