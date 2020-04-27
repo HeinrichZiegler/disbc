@@ -19,9 +19,9 @@ import { ContactUsComponent } from './contact/contact-us/contact-us.component';
 import { SermonListsComponent } from './sermon/sermon-lists/sermon-lists.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AboutEventsComponent } from './about/about-events/about-events.component';
-import { LiveComponent } from './live/live/live.component';
-import { SafeUrlPipe } from './live/safe-url.pipe';
+
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';// other import definitions@NgModule({ imports: [BrowserAnimationsModule // other imports]})
+import { LiveModule } from './live/live/live.module';
 
 @NgModule({
   declarations: [
@@ -39,16 +39,15 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';// other import definitio
     MinistryYouthComponent,
     ContactUsComponent,
     SermonListsComponent,
-    AboutEventsComponent,
-    LiveComponent,
-    SafeUrlPipe
+    AboutEventsComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     BrowserAnimationsModule,
-    NgbModule 
+    NgbModule,
+    LiveModule
   ],
   providers: [],
   bootstrap: [AppComponent]

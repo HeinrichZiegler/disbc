@@ -3,9 +3,14 @@
         <div class="card-body">
             <h3 class="my-4">Our Video Collection</h3>
             <p>
-                Please check this page for our videos below. This service is new, and we endeavor to do
-                our best to avoid any technical disruptions, however, in case somethings goes wrong, please be patient
-                with us, we are working as fast as we can to fix the problem. Thank you for your understanding. </p>
+                Please check this page for our videos below.
+                This service is new, and we endeavor to do
+                our best to avoid any technical disruptions,
+                however, in case somethings goes wrong,
+                please be patient
+                with us, we are working as fast as we can to
+                fix the problem. Thank you for your
+                understanding. </p>
         </div>
     </div>
 </div>
@@ -21,6 +26,7 @@
                         <th>Date</th>
                         <th>Time</th>
                         <th>Description</th>
+                        <th class="centerButton">Watch</th>
                     </tr>
                 </thead>
                 <tfoot>
@@ -29,11 +35,18 @@
                     </tr>
                 </tfoot>
                 <tbody>
-                    <tr *ngFor="let levent of liveEvents"  (click)="showVideo(levent)" >
+                    <tr *ngFor="let levent of liveEvents"
+                        (click)="showVideo(levent)">
                         <td>{{levent.title}}</td>
                         <td>{{levent.date}}</td>
                         <td>{{levent.time}}</td>
                         <td>{{levent.description}}</td>
+                        <td class="centerButton"> 
+                            <a
+                                [routerLink]="['/videos',levent.liveStreamId]">
+                                <img src="http://img.youtube.com/vi/{{levent.liveStreamId}}/default.jpg" alt="">
+                            </a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -41,14 +54,15 @@
     </div>
 </div>
 <br><br>
-
+<!-- 
 <div class="container">
     <div class="card " id="certussoft_business">
         <div class="card-body">
             <h3 class="my-4">{{liveTitle}}</h3>
-            <iframe class="card" [src]="videoUrl | safeUrl" frameborder="0" allowfullscreen>
+            <iframe class="card" [src]="videoUrl | safeUrl"
+                frameborder="0" allowfullscreen>
 
             </iframe>
         </div>
     </div>
-</div>
+</div> -->

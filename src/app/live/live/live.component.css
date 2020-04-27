@@ -29,7 +29,7 @@ table.blueTable {
   }
   table.blueTable td, table.blueTable th {
     border: 1px solid #AAAAAA;
-    padding: 3px 2px;
+    padding: 5px 5px;
   }
   table.blueTable tbody td {
     font-size: 15px;
@@ -67,7 +67,7 @@ table.blueTable tfoot .links a {
     display: inline-block;
     background: #1C6EA4;
     color: #FFFFFF;
-    padding: 2px 8px;
+    padding: 5px 8px;
     border-radius: 5px;
 }
 
@@ -79,6 +79,12 @@ tbody tr:hover {
   color: #08ec13b4;
 
 }
+img {
+  border: 5px solid transparent;
+}
+img:hover {
+    border-color: lime; 
+}
 
 
 iframe {
@@ -87,4 +93,8 @@ iframe {
     margin-left: auto;
     margin-right: auto;
     float: middle;
+}
+
+.centerButton{
+  text-align: center;
 }
