@@ -19,7 +19,6 @@ import { ContactUsComponent } from './contact/contact-us/contact-us.component';
 import { SermonListsComponent } from './sermon/sermon-lists/sermon-lists.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AboutEventsComponent } from './about/about-events/about-events.component';
-
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';// other import definitions@NgModule({ imports: [BrowserAnimationsModule // other imports]})
 import { LiveModule } from './live/live/live.module';
 
