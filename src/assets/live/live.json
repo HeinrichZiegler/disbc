@@ -1,18 +1,27 @@
 {
   "liveEvents": [
     {
+      "title": "New Creation",
+      "description": "SERIES: 2 Corinthians 5:16-17: New Creation",
+      "date": "03-May-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "wV2jWGga4EY"
+    },
+    {
       "title": "Motivation for Ministry",
       "description": "SERIES: 2 Corinthians 5:11-15: Motivation for Ministry",
       "date": "26-April-2020",
       "time": "9:30-10:30",
       "liveStreamId": "nFJwXAtZF0g"
-    },{
+    },
+    {
       "title": "Home & Away",
       "description": "SERIES: 2 Corinthians 5:1-10; Home & Away",
       "date": "19-April-2020",
       "time": "9:30-10:30",
       "liveStreamId": "b_IFKX3d8qg"
-    },{
+    },
+    {
       "title": "2020 Easter Sunday Serice",
       "description": "He Has Risen!",
       "date": "12-April-2020",
