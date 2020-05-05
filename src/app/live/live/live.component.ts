@@ -10,10 +10,10 @@ import { DomSanitizer } from '@angular/platform-browser';
 export class LiveComponent implements OnInit {
   public liveEvents;
   public liveTitle;
-  public counter = 0;
   public youtubeUrl = "https://www.youtube.com/watch?v=2dZT9GShJ3A&t=190s";
   public youtubeId: String; // = "nLhsCutSrag";
   public embedUrl = "https://www.youtube.com/embed/";
+  public videoEventsForDisplay = new Array();
 
   videoUrl: string;
 
@@ -30,6 +30,17 @@ export class LiveComponent implements OnInit {
         this.liveTitle = data.liveEvents[g].title;
        }
       this.liveEvents = data.liveEvents;
+
+      // now restructure data
+      console.log("Before conversion");
+      for (let g = 0; g < data.liveEvents.length; ++g) { 
+        if (g%3 === 0){
+          this.videoEventsForDisplay.push(new Array());
+        }
+        this.videoEventsForDisplay[Math.floor(g/3)].push(data.liveEvents[g]);
+      }
+      console.log("After conversion");
+      console.log(this.videoEventsForDisplay);
     });
   }
 
