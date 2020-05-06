@@ -4,13 +4,13 @@
             <h3 class="my-4">Our Video Collection</h3>
             <p>
                 Please check this page for our videos below.
-                This service is new, and we endeavor to do
-                our best to avoid any technical disruptions,
-                however, in case somethings goes wrong,
-                please be patient
-                with us, we are working as fast as we can to
-                fix the problem. Thank you for your
-                understanding. </p>
+                We are only listing our latest or most
+                significant
+                videos here. Please wisit our
+                <a
+                    href="https://www.youtube.com/channel/UC1f5k-nNZrRQ-8-fpItKMuw">
+                    youtube site</a> to subscribe and
+                to see our complete collection.</p>
         </div>
     </div>
 </div>
@@ -24,13 +24,16 @@
                 <div class="row">
                     <div
                         *ngFor="let levent of videoEventsForDisplay[i]">
-                        <div class="col-lg-4">
+                        <div class="col-lg">
                             <a
                                 [routerLink]="['/videos',levent.liveStreamId]">
                                 <img src="http://img.youtube.com/vi/{{levent.liveStreamId}}/mqdefault.jpg"
                                     alt="">
                             </a>
-                            <br>
+                            <br><br>
+                            <h4 style="text-align: center;">
+                                {{levent.title}}</h4>
+                            <hr>
                         </div>
                     </div>
                 </div>

@@ -80,7 +80,9 @@ tbody tr:hover {
 
 }
 img {
-  border: 5px solid transparent;
+  border: 5px solid transparent;    
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+
 }
 img:hover {
     border-color: lime; 
@@ -100,5 +102,10 @@ iframe {
 }
 
 a {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+  color: red;
+}
+
+hr {
+  width: 75%;
+  border-top: 5px solid #8c8b8b; 
 }
