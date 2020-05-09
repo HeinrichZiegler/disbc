@@ -27,6 +27,11 @@
       "date": "Jan 2020",
       "sermons": [
         {
+          "file": "May 10, 2020.mp3",
+          "title": "2 Corinthians: Reconciliation",
+          "date": "May 10, 2020"
+        },
+        {
           "file": "May 3, 2020.mp3",
           "title": "2 Corinthians: New Creation",
           "date": "May 03, 2020"
@@ -38,7 +43,7 @@
         },
         {
           "file": "April 19, 2020.wav",
-          "title": "2 Corinthians: Home & Away", 
+          "title": "2 Corinthians: Home & Away",
           "date": "April 19, 2020"
         },
         {
