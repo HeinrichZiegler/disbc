@@ -1,25 +1,6 @@
 {
   "motives": [
     {
-      "title": "Our Specials: Always Trust In Jesus",
-      "folder": "specials",
-      "image": "JesusInBoat2.jpg",
-      "description": "Our Specials",
-      "date": "2020",
-      "sermons": [
-        {
-          "file": "April 12, 2020.mp3",
-          "title": "Easter Is Still On!",
-          "date": "April 12, 2020"
-        },
-        {
-          "file": "Mar 22, 2020.mp3",
-          "title": "Calming the Storm",
-          "date": "Mar 22, 2020"
-        }
-      ]
-    },
-    {
       "title": "2nd letter to the Corinthians",
       "folder": "corinthians_2",
       "image": "corinthians_2.png",
@@ -110,6 +91,25 @@
           "file": "Jan 5, 2020.mp3",
           "title": "2 Corinthians: An Introduction",
           "date": "Jan 5, 2020"
+        }
+      ]
+    },
+    {
+      "title": "Our Specials: Always Trust In Jesus",
+      "folder": "specials",
+      "image": "JesusInBoat2.jpg",
+      "description": "Our Specials",
+      "date": "2020",
+      "sermons": [
+        {
+          "file": "April 12, 2020.mp3",
+          "title": "Easter Is Still On!",
+          "date": "April 12, 2020"
+        },
+        {
+          "file": "Mar 22, 2020.mp3",
+          "title": "Calming the Storm",
+          "date": "Mar 22, 2020"
         }
       ]
     },
