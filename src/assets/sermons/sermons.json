@@ -6,7 +6,12 @@
       "image": "corinthians_2.png",
       "description": "Second Corinthians Series",
       "date": "Jan 2020",
-      "sermons": [
+      "sermons": [        
+        {
+          "file": "July 5, 2020.mp3",
+          "title": "2 Corinthians: Boasting in the Lord",
+          "date": "July 5, 2020"
+        },
         {
           "file": "June 28, 2020.mp3",
           "title": "2 Corinthians: Destroying Arguments",
