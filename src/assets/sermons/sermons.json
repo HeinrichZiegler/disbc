@@ -6,7 +6,12 @@
       "image": "corinthians_2.png",
       "description": "Second Corinthians Series",
       "date": "Jan 2020",
-      "sermons": [      
+      "sermons": [   
+        {
+          "file": "July 19, 2020.mp3",
+          "title": "2 Corinthians: Free of Charge",
+          "date": "July 19, 2020"
+        },     
         {
           "file": "July 12, 2020.mp3",
           "title": "2 Corinthians: A Pure Bride",
