@@ -1,32 +1,51 @@
 {
   "motives": [
     {
+      "title": "Psalms",
+      "folder": "psalms",
+      "image": "psalms.jpg",
+      "description": "Short Series on Psalms",
+      "date": "Aug 2020",
+      "sermons": [
+        {
+          "file": "Aug 9, 2020.mp3",
+          "title": "Psalm 1",
+          "date": "Aug 9, 2020"
+        },
+        {
+          "file": "Aug 16, 2020.mp3",
+          "title": "Psalm 13",
+          "date": "Aug 16, 2020"
+        }
+      ]
+    },
+    {
       "title": "2nd letter to the Corinthians",
       "folder": "corinthians_2",
       "image": "corinthians_2.png",
       "description": "Second Corinthians Series",
       "date": "Jan 2020",
-      "sermons": [   
+      "sermons": [
         {
           "file": "Aug 2, 2020.mp3",
           "title": "2 Corinthians: Paul's Thorn",
           "date": "Aug 2, 2020"
-        },        
+        },
         {
           "file": "July 26, 2020.mp3",
           "title": "2 Corinthians: Paul's Ministry Highlights",
           "date": "July 26, 2020"
-        },    
+        },
         {
           "file": "July 19, 2020.mp3",
           "title": "2 Corinthians: Free of Charge",
           "date": "July 19, 2020"
-        },     
+        },
         {
           "file": "July 12, 2020.mp3",
           "title": "2 Corinthians: A Pure Bride",
           "date": "July 12, 2020"
-        },  
+        },
         {
           "file": "July 5, 2020.mp3",
           "title": "2 Corinthians: Boasting in the Lord",

@@ -1,6 +1,20 @@
 {
   "liveEvents": [
     {
+      "title": "Psalm 13",
+      "description": "SERIES: Psalms",
+      "date": "16-Aug-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "aPYBVRghh0o" 
+    },
+    {
+      "title": "Psalm 1",
+      "description": "SERIES: Psalms",
+      "date": "09-Aug-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "UM5BmV8zIgU" 
+    },
+    {
       "title": "Paul's Thorn",
       "description": "SERIES: 2 Corinthians 12:1-10 Paul's Thorn",
       "date": "02-Aug-2020",
