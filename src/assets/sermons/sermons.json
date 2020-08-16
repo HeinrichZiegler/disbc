@@ -8,14 +8,14 @@
       "date": "Aug 2020",
       "sermons": [
         {
-          "file": "Aug 9, 2020.mp3",
-          "title": "Psalm 1",
-          "date": "Aug 9, 2020"
-        },
-        {
           "file": "Aug 16, 2020.mp3",
           "title": "Psalm 13",
           "date": "Aug 16, 2020"
+        },
+        {
+          "file": "Aug 9, 2020.mp3",
+          "title": "Psalm 1",
+          "date": "Aug 9, 2020"
         }
       ]
     },
