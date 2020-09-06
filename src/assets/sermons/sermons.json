@@ -1,41 +1,17 @@
 {
   "motives": [
     {
-      "title": "Psalms",
-      "folder": "psalms",
-      "image": "psalms.jpg",
-      "description": "Short Series on Psalms",
-      "date": "Aug 2020",
-      "sermons": [
-        {
-          "file": "Aug 30, 2020.mp3",
-          "title": "Psalm 145",
-          "date": "Aug 30, 2020"
-        },
-        {
-          "file": "Aug 23, 2020.mp3",
-          "title": "Psalm 137",
-          "date": "Aug 23, 2020"
-        },
-        {
-          "file": "Aug 16, 2020.mp3",
-          "title": "Psalm 13",
-          "date": "Aug 16, 2020"
-        },
-        {
-          "file": "Aug 9, 2020.mp3",
-          "title": "Psalm 1",
-          "date": "Aug 9, 2020"
-        }
-      ]
-    },
-    {
       "title": "2nd letter to the Corinthians",
       "folder": "corinthians_2",
       "image": "corinthians_2.png",
       "description": "Second Corinthians Series",
       "date": "Jan 2020",
-      "sermons": [
+      "sermons": [        
+        {
+          "file": "Sept 6, 2020.mp3",
+          "title": "SERIES: 2 Corinthians 12:11-21 Authenticating Ministry",
+          "date": "Sept 6, 2020"
+        },
         {
           "file": "Aug 2, 2020.mp3",
           "title": "2 Corinthians: Paul's Thorn",
@@ -160,6 +136,35 @@
           "file": "Jan 5, 2020.mp3",
           "title": "2 Corinthians: An Introduction",
           "date": "Jan 5, 2020"
+        }
+      ]
+    },
+    {
+      "title": "Psalms",
+      "folder": "psalms",
+      "image": "psalms.jpg",
+      "description": "Short Series on Psalms",
+      "date": "Aug 2020",
+      "sermons": [
+        {
+          "file": "Aug 30, 2020.mp3",
+          "title": "Psalm 145",
+          "date": "Aug 30, 2020"
+        },
+        {
+          "file": "Aug 23, 2020.mp3",
+          "title": "Psalm 137",
+          "date": "Aug 23, 2020"
+        },
+        {
+          "file": "Aug 16, 2020.mp3",
+          "title": "Psalm 13",
+          "date": "Aug 16, 2020"
+        },
+        {
+          "file": "Aug 9, 2020.mp3",
+          "title": "Psalm 1",
+          "date": "Aug 9, 2020"
         }
       ]
     },
