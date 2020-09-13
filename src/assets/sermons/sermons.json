@@ -6,7 +6,12 @@
       "image": "corinthians_2.png",
       "description": "Second Corinthians Series",
       "date": "Jan 2020",
-      "sermons": [        
+      "sermons": [  
+        {
+          "file": "Sept 13, 2020.mp3",
+          "title": "SERIES: 2 Corinthians 13:1-10 Final Thoughts",
+          "date": "Sept 13, 2020"
+        },      
         {
           "file": "Sept 6, 2020.mp3",
           "title": "SERIES: 2 Corinthians 12:11-21 Authenticating Ministry",
