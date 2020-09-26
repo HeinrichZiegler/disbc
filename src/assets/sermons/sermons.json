@@ -1,6 +1,20 @@
 {
   "motives": [
     {
+      "title": "Joel Series",
+      "folder": "joel",
+      "image": "joel.png",
+      "description": "Joel Series",
+      "date": "Jan 2020",
+      "sermons": [  
+        {
+          "file": "Sept 27, 2020.mp3",
+          "title": "SERIES: Joel 1:1  Return: An Introduction ",
+          "date": "Sept 27, 2020"
+        }
+      ]
+    },
+    {
       "title": "2nd letter to the Corinthians",
       "folder": "corinthians_2",
       "image": "corinthians_2.png",
