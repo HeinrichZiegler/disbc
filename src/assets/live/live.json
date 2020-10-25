@@ -2,10 +2,17 @@
   "liveEvents": [
     {
       "title": "Return: With a Broken Heart",
-      "description": "SERIES: Joel Return:  With a Broken Heart",
+      "description": "SERIES: Joel Return: With a Broken Heart",
       "date": "25-Oct-2020",
       "time": "9:30-10:30",
       "liveStreamId": "FvNYQRkwS94" 
+    },
+    {
+      "title": "Return: The Day of the Lord",
+      "description": "SERIES: Joel Return:  The Day of the Lord",
+      "date": "18-Oct-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "DLpLy8fvkls" 
     },
     {
       "title": "Return: A Communal Response",
