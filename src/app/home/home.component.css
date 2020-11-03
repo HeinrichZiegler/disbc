@@ -25,3 +25,7 @@
 .service_text {
     font-size: 150%;
 }
+span {
+    font-size:  75%;
+    color: lightyellow;
+}
