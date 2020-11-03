@@ -266,35 +266,6 @@
       ]
     },
     {
-      "title": "Songs of Christmas",
-      "folder": "xmas",
-      "image": "xmas.jpg",
-      "description": "Songs of Christmas Series",
-      "date": "Advent 2015",
-      "sermons": [
-        {
-          "file": "Nov 29, 2015.mp3",
-          "title": "The Songs of Christmas: Come",
-          "date": "Nov 29, 2015"
-        },
-        {
-          "file": "Dec 6, 2015.mp3",
-          "title": "The Songs of Christmas: Bethlehem ",
-          "date": "Dec 6, 2015"
-        },
-        {
-          "file": "Dec 13, 2015.mp3",
-          "title": "The Songs of Christmas: Angels ",
-          "date": "Dec 13, 2015"
-        },
-        {
-          "file": "Dec 20, 2015.mp3",
-          "title": "The Songs of Christmas: Who is He?",
-          "date": "Dec 20, 2015"
-        }
-      ]
-    },
-    {
       "title": "The Book of Esther",
       "folder": "esther",
       "image": "esther.jpg",
