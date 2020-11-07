@@ -6,7 +6,12 @@
       "image": "joel.png",
       "description": "Joel Series",
       "date": "Jan 2020",
-      "sermons": [  
+      "sermons": [ 
+        {
+          "file": "Nov 8, 2020.mp3",
+          "title": "SERIES: Joel  Return: Pouring Out the Spirit",
+          "date": "Nov 8, 2020"
+        }, 
         {
           "file": "Nov 1, 2020.mp3",
           "title": "SERIES: Joel  Return: God's Response",
