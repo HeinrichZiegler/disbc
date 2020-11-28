@@ -1,6 +1,20 @@
 {
   "motives": [
     {
+      "title": "Songs of Christmas Series",
+      "folder": "christmas",
+      "image": "christmas.png",
+      "description": "Songs of Christmas Series",
+      "date": "Dezember 2020",
+      "sermons": [         
+        {
+          "file": "Nov 29, 2020.mp3",
+          "title": "SERIES:  The Songs of Christmas: Come",
+          "date": "Nov 29, 2020"
+        }
+      ]
+    },
+    {
       "title": "Joel Series",
       "folder": "joel",
       "image": "joel.png",
