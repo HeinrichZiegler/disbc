@@ -6,7 +6,12 @@
       "image": "christmas.png",
       "description": "Songs of Christmas Series",
       "date": "Dezember 2020",
-      "sermons": [         
+      "sermons": [     
+        {
+          "file": "Dec 06, 2020.mp3",
+          "title": "SERIES:  The Songs of Christmas: Bethlehem",
+          "date": "Dec 06, 2020"
+        },    
         {
           "file": "Nov 29, 2020.mp3",
           "title": "SERIES:  The Songs of Christmas: Come",
