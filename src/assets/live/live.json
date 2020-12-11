@@ -1,9 +1,16 @@
 {
-  "liveEvents": [
+  "liveEvents": [    
+    {
+      "title": "Songs of Christmas: Hark!",
+      "description": "SERIES: The Songs of Christmas: Hark! The Herald Angels Sing",
+      "date": "13-Dec-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "Tq5ANc4whHE" 
+    },
     {
       "title": "Songs of Christmas: Bethlehem",
       "description": "SERIES: The Songs of Christmas: Bethlehem",
-      "date": "29-Nov-2020",
+      "date": "06-Dec-2020",
       "time": "9:30-10:30",
       "liveStreamId": "NJEDhdnjk24" 
     },   
