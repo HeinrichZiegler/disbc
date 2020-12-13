@@ -9,7 +9,7 @@ import { LoadLiveService } from '../../load-live.service';
 })
 export class LivePlayComponent implements OnInit {
   public liveEvents;
-  public liveTitle = "Test";
+  public liveTitle = "Merry Christmas";
   public counter = 0;
   public youtubeUrl = "https://www.youtube.com/watch?v=2dZT9GShJ3A&t=190s";
   public embedUrl = "https://www.youtube.com/embed/";
@@ -28,6 +28,7 @@ export class LivePlayComponent implements OnInit {
   ngOnInit(): void {
     this.videoId = this.route.snapshot.params['id'];
     this.videoUrl = this.embedUrl + this.videoId;
+    this.liveTitle= this.route.snapshot.params['title']
 
     this.loadSermonService.getJSON().subscribe(data => {
       // console.log(data);

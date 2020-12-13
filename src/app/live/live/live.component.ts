@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { LoadLiveService } from '../load-live.service';
 import { DomSanitizer } from '@angular/platform-browser';
+import {Router} from '@angular/router'; // import router from angular router
 
 @Component({
   selector: 'app-',
@@ -17,7 +18,8 @@ export class LiveComponent implements OnInit {
 
   videoUrl: string;
 
-  constructor(private loadSermonService: LoadLiveService) { 
+  constructor(private loadSermonService: LoadLiveService,
+    private router:Router) { 
     this.videoUrl =  this.embedUrl + this.youtubeId;
   }
 
@@ -48,6 +50,10 @@ export class LiveComponent implements OnInit {
         this.youtubeId = levent.liveStreamId
         this.videoUrl =  this.embedUrl + this.youtubeId;
         this.liveTitle = levent.title;
+  }
+
+  gotoXmas() {
+    this.router.navigate(['/christmas']);
   }
 
 }

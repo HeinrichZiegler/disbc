@@ -15,6 +15,7 @@ import { ContactUsComponent } from './contact/contact-us/contact-us.component';
 import { SermonListsComponent } from './sermon/sermon-lists/sermon-lists.component';
 import { AboutEventsComponent } from './about/about-events/about-events.component';
 import { LiveComponent } from './live/live/live.component';
+import { XmasComponent } from './xmas/xmas.component';
 
 
 const routes: Routes = [    {
@@ -65,6 +66,10 @@ const routes: Routes = [    {
 {
   path: 'contact',
   component: ContactUsComponent
+},
+{
+  path: 'christmas',
+  component: XmasComponent
 },
 {
   path: 'sermons',

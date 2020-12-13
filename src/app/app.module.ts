@@ -21,6 +21,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AboutEventsComponent } from './about/about-events/about-events.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';// other import definitions@NgModule({ imports: [BrowserAnimationsModule // other imports]})
 import { LiveModule } from './live/live/live.module';
+import { XmasComponent } from './xmas/xmas.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +39,8 @@ import { LiveModule } from './live/live/live.module';
     MinistryYouthComponent,
     ContactUsComponent,
     SermonListsComponent,
-    AboutEventsComponent
+    AboutEventsComponent,
+    XmasComponent
   ],
   imports: [
     BrowserModule,

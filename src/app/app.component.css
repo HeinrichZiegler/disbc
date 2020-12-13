@@ -107,3 +107,13 @@ footer {
 .navbar-brand:visited {
     color: lime;
 }
+span {
+    font-family: 'Brush Script MT', cursive;
+    font-size: xx-large;
+    color:lime;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+.menucorr{
+    margin-top: 0.6em ;
+}

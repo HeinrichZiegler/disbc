@@ -4,8 +4,12 @@ import { LivePlayComponent } from './live-play/live-play.component';
 
 
 
-const routes: Routes = [    {
+const routes: Routes = [{
   path: 'videos/:id',
+  component: LivePlayComponent
+},
+{
+  path: 'videos/:id/:title',
   component: LivePlayComponent
 }
 ];
