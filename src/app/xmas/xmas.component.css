@@ -1,0 +1,33 @@
+img {
+}
+.imgshadow {
+    border: 5px solid transparent;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.imgshadow:hover {
+    border-color: lime;
+}
+
+h3 {}
+
+.sideimage {
+    width: 10%;
+    height: auto;
+}
+.sidejesus {
+    width: 30%;
+    height: auto;
+    
+}
+
+.xmas {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2.4em;
+    color: lime;
+    text-align: center;
+}
+hr{
+    width: 75%;
+    margin: auto;
+}
