@@ -1,6 +1,13 @@
 {
   "liveEvents": [    
     {
+      "title": "S. of Christmas: Who is He?",
+      "description": "SERIES: Who's He?",
+      "date": "20-Dec-2020",
+      "time": "9:30-10:30",
+      "liveStreamId": "hemofgaImgw" 
+    },
+    {
       "title": "Songs of Christmas: Hark!",
       "description": "SERIES: The Songs of Christmas: Hark! The Herald Angels Sing",
       "date": "13-Dec-2020",
