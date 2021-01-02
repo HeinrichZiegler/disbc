@@ -1,5 +1,12 @@
 {
-  "liveEvents": [      
+  "liveEvents": [  
+    {
+      "title": "Sermon On The Mount: Intro",
+      "description": "Sermon On the Mount: Mathew 5:1-2",
+      "date": "03-Jan-2021",
+      "time": "9:30-10:30",
+      "liveStreamId": "-wcMNB-I1Uk" 
+    },      
     {
       "title": "Not Why? But What",
       "description": "Not Why? But What? John 9:1-5",

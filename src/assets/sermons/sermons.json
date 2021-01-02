@@ -1,12 +1,31 @@
 {
   "motives": [
     {
+      "title": "Sermon On The Mount",
+      "folder": "som",
+      "image": "som.jpg",
+      "description": "Sermon On The Mount Series: Mathew 5",
+      "date": "Janurary 2021",
+      "sermons": [
+        {
+          "file": "Jan 03, 2021.mp3",
+          "title": "Sermon on the Mount: An Introduction",
+          "date": "Jan 03, 2021"
+        }
+      ]
+    },
+    {
       "title": "After Christmas Specials",
       "folder": "misc",
       "image": "misc.jpg",
       "description": "After Christmas Specials by Tom Sweeny, and Pastor Michael",
       "date": "Dec/Jan 2020/2021",
       "sermons": [
+        {
+          "file": "Jan 03, 2021.mp3",
+          "title": "Not Why? But What? John 9:1-5",
+          "date": "Jan 03, 2021"
+        },
         {
           "file": "Dec 27, 2020.mp3",
           "title": "Not Why? But What? John 9:1-5",
