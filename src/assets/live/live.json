@@ -1,5 +1,12 @@
 {
-  "liveEvents": [  
+  "liveEvents": [ 
+    {
+      "title": "S O T M: Those who Mourn",
+      "description": "Sermon On the Mount: Mathew 5:4",
+      "date": "24-Jan-2021",
+      "time": "9:30-10:30",
+      "liveStreamId": "P1k9lwi6WpA" 
+    }, 
     {
       "title": "S O T M: Poor in Spirit",
       "description": "Sermon On the Mount: Mathew 5:3",
