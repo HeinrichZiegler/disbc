@@ -1,5 +1,12 @@
 {
-  "liveEvents": [    
+  "liveEvents": [  
+    {
+      "title": "S O T M: Mercy",
+      "description": "Sermon On the Mount: Mathew 5:7",
+      "date": "14-Feb-2021",
+      "time": "9:30-10:30",
+      "liveStreamId": "P8dz0lv5kr0" 
+    },    
     {
       "title": "S O T M: Righteousness",
       "description": "Sermon On the Mount: Mathew 5:6",
