@@ -1,5 +1,12 @@
 {
-  "liveEvents": [     
+  "liveEvents": [
+    {
+      "title": "S O T M: Peacemakers",
+      "description": "Sermon On the Mount: Mathew 5:9",
+      "date": "28-Feb-2021",
+      "time": "9:30-10:30",
+      "liveStreamId": "wzNPZ4udRsE" 
+    },     
     {
       "title": "S O T M: Purity",
       "description": "Sermon On the Mount: Mathew 5:8",
