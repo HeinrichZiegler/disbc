@@ -1,6 +1,20 @@
 {
   "motives": [
     {
+      "title": "Easter Special 2021",
+      "folder": "misc",
+      "image": "easter2021.jpg",
+      "description": "Sermon On Ester Sunday April 4th 2021",
+      "date": "April 4th 2021",
+      "sermons": [
+        {
+          "file": "April 04, 2021.mp3",
+          "title": "Risen Indeed!",
+          "date": "April 04, 2021"
+        }
+      ]
+    },
+    {
       "title": "Sermon On The Mount",
       "folder": "som",
       "image": "som.jpg",
