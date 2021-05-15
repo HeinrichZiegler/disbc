@@ -4,9 +4,14 @@
       "title": "Sermon On The Mount",
       "folder": "som",
       "image": "som.jpg",
-      "description": "Sermon On The Mount Series: Mathew 5",
+      "description": "Sermon On The Mount Series: Mathew 5 & 6",
       "date": "Janurary 2021",
       "sermons": [
+        {
+          "file": "May 16, 2021.mp3",
+          "title": "Sermon on the Mount: Giving to the Poor",
+          "date": "May 16, 2021"
+        },
         {
           "file": "May 09, 2021.mp3",
           "title": "Sermon on the Mount: Love Your Enemies",
