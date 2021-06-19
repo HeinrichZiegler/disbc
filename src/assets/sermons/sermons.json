@@ -6,7 +6,12 @@
       "image": "som.jpg",
       "description": "Sermon On The Mount Series: Mathew 5 & 6",
       "date": "Janurary 2021",
-      "sermons": [
+      "sermons": [        
+        {
+          "file": "June 20, 2021.mp3",
+          "title": "Sermon on the Mount: Kingdom Come",
+          "date": "June 20, 2021"
+        },
         {
           "file": "June 13, 2021.mp3",
           "title": "Sermon on the Mount: Hallowed",
