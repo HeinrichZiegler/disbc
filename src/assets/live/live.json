@@ -1,473 +1,548 @@
 {
   "liveEvents": [
     {
+      "title": "S O T M: Will Be Done",
+      "description": "Sermon On the Mount: Mathew 6:9-13",
+      "date": "27-June-2021",
+      "time": "9:30-10:30",
+      "liveStreamId": "6ymHBzNisAE",
+      "group": "Sermon On The Mount"
+    },
+    {
       "title": "S O T M: Kingdom Come",
       "description": "Sermon On the Mount: Mathew 6:9-13",
       "date": "20-June-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "C9OnY6s89RY"
+      "liveStreamId": "C9OnY6s89RY",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Hallowed",
       "description": "Sermon On the Mount: Mathew 6:9-13",
       "date": "13-June-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "k3nw8iQLJN4"
+      "liveStreamId": "k3nw8iQLJN4",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Our Father",
       "description": "Sermon On the Mount: Mathew 6:9-13",
       "date": "06-June-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "LC__Qykg5vk"
+      "liveStreamId": "LC__Qykg5vk",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: On Fasting",
       "description": "Sermon On the Mount: Mathew 6:16-18",
       "date": "30-May-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "KpmcNPkVxfY"
+      "liveStreamId": "KpmcNPkVxfY",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: On Prayer",
       "description": "Sermon On the Mount: Mathew 6:5-8",
       "date": "23-May-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "y7SrBm57aU0"
+      "liveStreamId": "y7SrBm57aU0",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Giving to the Poor",
       "description": "Sermon On the Mount: Mathew 6:1-4",
       "date": "16-May-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "fq-jnyLKOR0"
+      "liveStreamId": "fq-jnyLKOR0",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Love Your Enemies",
       "description": "Sermon On the Mount: Mathew 5:43-48",
       "date": "09-May-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "KKHH3JEzz_o"
+      "liveStreamId": "KKHH3JEzz_o",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Revenge",
       "description": "Sermon On the Mount: Mathew 5:38-42",
       "date": "02-May-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "tjX-ISoNaqc"
+      "liveStreamId": "tjX-ISoNaqc",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Oath Taking",
       "description": "Sermon On the Mount: Mathew 5:33-37",
       "date": "25-April-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "GWECIEWeFTA"
+      "liveStreamId": "GWECIEWeFTA",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Divorce",
       "description": "Sermon On the Mount: Mathew 5:31-32",
       "date": "18-April-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "12B2gfkTHFk"
+      "liveStreamId": "12B2gfkTHFk",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Adultery & Lust",
       "description": "Sermon On the Mount: Mathew 5:27-30",
       "date": "11-April-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "nGfH9TNcsqM"
+      "liveStreamId": "nGfH9TNcsqM",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "Easter: Risen Indeed",
       "description": "Easter Sermon: Mark 16:1-8",
       "date": "04-April-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "k1eyXJJcBaQ"
+      "liveStreamId": "k1eyXJJcBaQ",
+      "group": "Sermon On The Mount"
     },    
     {
       "title": "Good Friday Sermon",
       "description": "Good Friday Sermon",
       "date": "02-April-2021",
       "time": "11:00-12:00",
-      "liveStreamId": "Fg2nFySN0xg"
+      "liveStreamId": "Fg2nFySN0xg",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Anger",
       "description": "Sermon On the Mount: Mathew 5:21-26",
       "date": "27-March-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "dpGEmIxAF5w"
+      "liveStreamId": "dpGEmIxAF5w",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "Surpassing Righteousness",
       "description": "Sermon On the Mount: Mathew 5:17-20",
       "date": "21-March-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "JwrxtbDUJcQ"
+      "liveStreamId": "JwrxtbDUJcQ",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Salt & Light",
       "description": "Sermon On the Mount: Mathew 5:13-16",
       "date": "14-March-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "SYU0KKn5-ZA"
+      "liveStreamId": "SYU0KKn5-ZA",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Persecution",
       "description": "Sermon On the Mount: Mathew 5:10-12",
       "date": "07-March-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "MVDCbQXtOqA"
+      "liveStreamId": "MVDCbQXtOqA",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Peacemakers",
       "description": "Sermon On the Mount: Mathew 5:9",
       "date": "28-Feb-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "wzNPZ4udRsE"
+      "liveStreamId": "wzNPZ4udRsE",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Purity",
       "description": "Sermon On the Mount: Mathew 5:8",
       "date": "21-Feb-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "RP1_XiMMPfU"
+      "liveStreamId": "RP1_XiMMPfU",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Mercy",
       "description": "Sermon On the Mount: Mathew 5:7",
       "date": "14-Feb-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "P8dz0lv5kr0"
+      "liveStreamId": "P8dz0lv5kr0",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Righteousness",
       "description": "Sermon On the Mount: Mathew 5:6",
       "date": "07-Feb-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "dpTQ7iLhr6M"
+      "liveStreamId": "dpTQ7iLhr6M",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Meekness",
       "description": "Sermon On the Mount: Mathew 5:5",
       "date": "31-Jan-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "jakbvU9XqpE"
+      "liveStreamId": "jakbvU9XqpE",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Those who Mourn",
       "description": "Sermon On the Mount: Mathew 5:4",
       "date": "24-Jan-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "P1k9lwi6WpA"
+      "liveStreamId": "P1k9lwi6WpA",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: Poor in Spirit",
       "description": "Sermon On the Mount: Mathew 5:3",
       "date": "17-Jan-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "2Hz1gnMtXTY"
+      "liveStreamId": "2Hz1gnMtXTY",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "S O T M: The Beatitudes",
       "description": "Sermon On the Mount: Mathew 5:1-10",
       "date": "10-Jan-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "5qjfoO1B9f0"
+      "liveStreamId": "5qjfoO1B9f0",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "Sermon On The Mount: Intro",
       "description": "Sermon On the Mount: Mathew 5:1-2",
       "date": "03-Jan-2021",
       "time": "9:30-10:30",
-      "liveStreamId": "-wcMNB-I1Uk"
+      "liveStreamId": "-wcMNB-I1Uk",
+      "group": "Sermon On The Mount"
     },
     {
       "title": "Not Why? But What",
       "description": "Not Why? But What? John 9:1-5",
       "date": "27-Dec-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "vRdzSlhRRiA"
+      "liveStreamId": "vRdzSlhRRiA",
+      "group": "Specials"
     },
     {
       "title": "S. of Christmas: Who is He?",
       "description": "SERIES: Who's He?",
       "date": "20-Dec-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "hemofgaImgw"
+      "liveStreamId": "hemofgaImgw",
+      "group": "Christmas 2020"
     },
     {
       "title": "Songs of Christmas: Hark!",
       "description": "SERIES: The Songs of Christmas: Hark! The Herald Angels Sing",
       "date": "13-Dec-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "Tq5ANc4whHE"
+      "liveStreamId": "Tq5ANc4whHE",
+      "group": "Christmas 2020"
     },
     {
       "title": "Songs of Christmas: Bethlehem",
       "description": "SERIES: The Songs of Christmas: Bethlehem",
       "date": "06-Dec-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "NJEDhdnjk24"
+      "liveStreamId": "NJEDhdnjk24",
+      "group": "Christmas 2020"
     },
     {
       "title": "The Songs of Christmas: Come",
       "description": "SERIES: The Songs of Christmas: Come",
       "date": "29-Nov-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "zXXJ8sTNueI"
+      "liveStreamId": "zXXJ8sTNueI",
+      "group": "Christmas 2020"
     },
     {
       "title": "Return: Dwelling with God",
       "description": "SERIES: Joel Return: Dwelling with God",
       "date": "22-Nov-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "h5LbXH87hys"
+      "liveStreamId": "h5LbXH87hys",
+      "group": "Joel Return"
     },
     {
       "title": "Return: Decisions,...",
       "description": "SERIES: Joel Return: Decisions, Decisions, Decisions",
       "date": "15-Nov-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "6DmI4ci2xSU"
+      "liveStreamId": "6DmI4ci2xSU",
+      "group": "Joel Return"
     },
     {
       "title": "Re.: Pouring Out the Spirit",
       "description": "SERIES: Joel Return: Pouring Out the Spirit",
       "date": "8-Nov-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "599wDFpt4Ws"
+      "liveStreamId": "599wDFpt4Ws",
+      "group": "Joel Return"
     },
     {
       "title": "Return: God's Response",
       "description": "SERIES: Joel Return: God's Response",
       "date": "1-Nov-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "tvCKmx2olTY"
+      "liveStreamId": "tvCKmx2olTY",
+      "group": "Joel Return"
     },
     {
       "title": "Return: With a Broken Heart",
       "description": "SERIES: Joel Return: With a Broken Heart",
       "date": "25-Oct-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "FvNYQRkwS94"
+      "liveStreamId": "FvNYQRkwS94",
+      "group": "Joel Return"
     },
     {
       "title": "Return: The Day of the Lord",
       "description": "SERIES: Joel Return:  The Day of the Lord",
       "date": "18-Oct-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "DLpLy8fvkls"
+      "liveStreamId": "DLpLy8fvkls",
+      "group": "Joel Return"
     },
     {
       "title": "Return: A Communal Response",
       "description": "SERIES: Joel Return: A Communal Response",
       "date": "11-Oct-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "BsWvcERDctQ"
+      "liveStreamId": "BsWvcERDctQ",
+      "group": "Joel Return"
     },
     {
       "title": "Instructions for Difficult Times",
       "description": "SERIES: Joel 1:1-12 Return: Instructions for Difficult Times",
       "date": "04-Oct-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "7cvuTyCr-X0"
+      "liveStreamId": "7cvuTyCr-X0",
+      "group": "Joel Return"
     },
     {
       "title": "Return: An Introduction",
       "description": "SERIES: Joel 1:1 Return: An Introduction",
       "date": "27-Sept-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "ZtV0-EdGX7Q"
+      "liveStreamId": "ZtV0-EdGX7Q",
+      "group": "Joel Return"
     },
     {
       "title": "Benediction",
       "description": "SERIES: 2 Corinthians 13:11-14 Benediction",
       "date": "20-Sept-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "mEX4xHYyrqU"
+      "liveStreamId": "mEX4xHYyrqU",
+      "group": "2 Corinthians"
     },
     {
       "title": "Final Thoughts",
       "description": "SERIES: 2 Corinthians 13:1-10 Final Thoughts",
       "date": "13-Sept-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "T_3cZSY6FLQ"
+      "liveStreamId": "T_3cZSY6FLQ",
+      "group": "2 Corinthians"
     },
     {
       "title": "Authenticating Ministry",
       "description": "SERIES: 2 Corinthians 12:11-21 Authenticating Ministry",
       "date": "06-Sept-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "Q27Dim6eYRw"
+      "liveStreamId": "Q27Dim6eYRw",
+      "group": "2 Corinthians"
     },
     {
       "title": "Psalm 145",
       "description": "SERIES: Psalms",
       "date": "30-Aug-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "JlJ8yc4ctrA"
+      "liveStreamId": "JlJ8yc4ctrA",
+      "group": "2 Corinthians"
     },
     {
       "title": "Psalm 137",
       "description": "SERIES: Psalms",
       "date": "23-Aug-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "yVfUraMmm2k"
+      "liveStreamId": "yVfUraMmm2k",
+      "group": "Psalms"
     },
     {
       "title": "Psalm 13",
       "description": "SERIES: Psalms",
       "date": "16-Aug-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "aPYBVRghh0o"
+      "liveStreamId": "aPYBVRghh0o",
+      "group": "Psalms"
     },
     {
       "title": "Psalm 1",
       "description": "SERIES: Psalms",
       "date": "09-Aug-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "UM5BmV8zIgU"
+      "liveStreamId": "UM5BmV8zIgU",
+      "group": "Psalms"
     },
     {
       "title": "Paul's Thorn",
       "description": "SERIES: 2 Corinthians 12:1-10 Paul's Thorn",
       "date": "02-Aug-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "Nq-Z5M_0pYQ"
+      "liveStreamId": "Nq-Z5M_0pYQ",
+      "group": "2 Corinthians"
     },
     {
       "title": "Paul's Ministry Highlights",
       "description": "SERIES: 2 Corinthians 11:16-33 Paul's Ministry Highlights",
       "date": "26-July-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "5xeZCyoUvfU"
+      "liveStreamId": "5xeZCyoUvfU",
+      "group": "2 Corinthians"
     },
     {
       "title": "Free of Charge",
       "description": "SERIES: 2 Corinthians 11:5-15 Free of Charge",
       "date": "19-July-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "mwii38fjPGI"
+      "liveStreamId": "mwii38fjPGI",
+      "group": "2 Corinthians"
     },
     {
       "title": "A Pure Bride",
       "description": "SERIES: 2 Corinthians 11:1-4 A Pure Bride",
       "date": "12-July-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "0Wqy8TE3rv0"
+      "liveStreamId": "0Wqy8TE3rv0",
+      "group": "2 Corinthians"
     },
     {
       "title": "Boasting in the Lord",
       "description": "SERIES: 2 Corinthians 10:7-18 Boasting in the Lord",
       "date": "05-July-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "4kfB86qWt2s"
+      "liveStreamId": "4kfB86qWt2s",
+      "group": "2 Corinthians"
     },
     {
       "title": "Destroying Arguments",
       "description": "SERIES: 2 Corinthians 10:1-6 Destroying Arguments",
       "date": "28-June-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "oYPyJJK9T-s"
+      "liveStreamId": "oYPyJJK9T-s",
+      "group": "2 Corinthians"
     },
     {
       "title": "Deep Impact",
       "description": "SERIES: 2 Corinthians 9:1-15 Deep Impact",
       "date": "21-June-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "WFeAN3w-k6E"
+      "liveStreamId": "WFeAN3w-k6E",
+      "group": "2 Corinthians"
     },
     {
       "title": "Here's the Plan",
       "description": "SERIES: 2 Corinthians 8:16-24 Here's the Plan",
       "date": "14-June-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "qO_ej6bYWFk"
+      "liveStreamId": "qO_ej6bYWFk",
+      "group": "2 Corinthians"
     },
     {
       "title": "Finish What You Started",
       "description": "SERIES: 2 Corinthians 8:1-15 Finish What You Started",
       "date": "07-June-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "mMQFZqN_ojg"
+      "liveStreamId": "mMQFZqN_ojg",
+      "group": "2 Corinthians"
     },
     {
       "title": "Good Grief",
       "description": "SERIES: 2 Corinthians 7:2-16 Good Grief",
       "date": "31-May-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "C6IBvgDCoOo"
+      "liveStreamId": "C6IBvgDCoOo",
+      "group": "2 Corinthians"
     },
     {
       "title": "Paul's Ministry Resume",
       "description": "SERIES: 2 Corinthians 6:14-7:1: What's a Yoke Anyway?",
       "date": "24-May-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "GWs5ihQ0p-Q"
+      "liveStreamId": "GWs5ihQ0p-Q",
+      "group": "2 Corinthians"
     },
     {
       "title": "Paul's Ministry Resume",
       "description": "SERIES: 2 Corinthians 6:1-13: Paul's Ministry Resume",
       "date": "17-May-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "vkwWfaMILHg"
+      "liveStreamId": "vkwWfaMILHg",
+      "group": "2 Corinthians"
     },
     {
       "title": "Reconciliation",
       "description": "SERIES: 2 Corinthians 5:18-21: Reconciliation",
       "date": "10-May-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "-gBq9D-w8cQ"
+      "liveStreamId": "-gBq9D-w8cQ",
+      "group": "2 Corinthians"
     },
     {
       "title": "New Creation",
       "description": "SERIES: 2 Corinthians 5:16-17: New Creation",
       "date": "03-May-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "wV2jWGga4EY"
+      "liveStreamId": "wV2jWGga4EY",
+      "group": "2 Corinthians"
     },
     {
       "title": "Motivation for Ministry",
       "description": "SERIES: 2 Corinthians 5:11-15: Motivation for Ministry",
       "date": "26-April-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "nFJwXAtZF0g"
+      "liveStreamId": "nFJwXAtZF0g",
+      "group": "2 Corinthians"
     },
     {
       "title": "Home & Away",
       "description": "SERIES: 2 Corinthians 5:1-10; Home & Away",
       "date": "19-April-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "b_IFKX3d8qg"
+      "liveStreamId": "b_IFKX3d8qg",
+      "group": "2 Corinthians"
     },
     {
       "title": "2020 Easter Sunday Serice",
       "description": "He Has Risen!",
       "date": "12-April-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "esd1EUTZ-I0"
+      "liveStreamId": "esd1EUTZ-I0",
+      "group": "EASTER 2020"
     },
     {
       "title": "2020 Good Friday Message",
       "description": "This is not your average Good Friday!",
       "date": "10-April-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "VAGzhMoxPuk"
+      "liveStreamId": "VAGzhMoxPuk",
+      "group": "EASTER 2020"
     },
     {
       "title": "Not That Kind of King",
       "description": "'Not That Kind of King' John 12 : 12-19",
       "date": "05-April-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "zc3UPG-pFDw"
+      "liveStreamId": "zc3UPG-pFDw",
+      "group": "EASTER 2020"
     },
     {
       "title": "Does God Care?",
       "description": "Three reoccurring questions in a crisis",
       "date": "29-Mar-2020",
       "time": "9:30-10:30",
-      "liveStreamId": "21Jz6PbypS4"
+      "liveStreamId": "21Jz6PbypS4",
+      "group": "Specials"
     }
   ]
 }
