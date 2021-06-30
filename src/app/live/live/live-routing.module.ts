@@ -5,11 +5,11 @@ import { LivePlayComponent } from './live-play/live-play.component';
 
 
 const routes: Routes = [{
-  path: 'videos/:id',
+  path: 'videos/theme/:id',
   component: LivePlayComponent
 },
 {
-  path: 'videos/:id/:title',
+  path: 'videos/theme/:id/:title',
   component: LivePlayComponent
 }
 ];

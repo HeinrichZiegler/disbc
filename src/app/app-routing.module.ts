@@ -16,6 +16,7 @@ import { SermonListsComponent } from './sermon/sermon-lists/sermon-lists.compone
 import { AboutEventsComponent } from './about/about-events/about-events.component';
 import { LiveComponent } from './live/live/live.component';
 import { XmasComponent } from './xmas/xmas.component';
+import { LiveGroupComponent } from './live/live-group/live-group.component';
 
 
 const routes: Routes = [    {
@@ -77,7 +78,7 @@ const routes: Routes = [    {
 },
 {
   path: 'videos',
-  component: LiveComponent
+  component: LiveGroupComponent
 },
 {
   path: '',

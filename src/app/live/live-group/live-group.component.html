@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="card " id="certussoft_business">
+        <div class="card-body">
+            <h3 class="my-4">Our Video Sermon Themes</h3>
+            <p>
+                Please check this page for our sermon video themes below.
+                We are only listing our latest or most significant
+                videos here. Please wisit our
+                <a
+                    href="https://www.youtube.com/channel/UC1f5k-nNZrRQ-8-fpItKMuw">
+                    youtube site</a> to subscribe and
+                to see our complete collection.</p>
+                <!-- <p>For our 2020 
+                    <span class="xmas" (click)="gotoXmas()">Christmas</span> 
+                    series please follow our special link 
+                    <span (click)="gotoXmas()">here</span></p> -->
+        </div>
+    </div>
+</div>
+<br><br>
+<div class="container">
+    <div class="card " id="certussoft_business">
+        <div class="card-body">
+            <h3 class="my-4">Our Video List</h3>
+            <div
+                *ngFor="let groupsA of groupsForDisplay; let i = index">
+                <div class="row">
+
+                    <div
+                        *ngFor="let group of groupsA">
+                        <div class="col-lg">
+                            {{group}}
+                            <!-- <a
+                                [routerLink]="['/videos',levent.liveStreamId]">
+                                <img src="http://img.youtube.com/vi/{{levent.liveStreamId}}/mqdefault.jpg"
+                                    alt="">
+                            </a> -->
+                            <br><br>
+                            <h4 style="text-align: center;">
+                                {{group}}</h4>
+                            <hr>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>
