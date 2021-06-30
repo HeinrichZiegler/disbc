@@ -24,6 +24,7 @@ import { LiveModule } from './live/live/live.module';
 import { XmasComponent } from './xmas/xmas.component';
 import { LiveGroupComponent } from './live/live-group/live-group.component';
 import { LiveGroupModule } from './live/live-group/live-group.module';
+import { SafeUrlPipe } from './live/safe-url.pipe';
 
 @NgModule({
   declarations: [
@@ -42,8 +43,7 @@ import { LiveGroupModule } from './live/live-group/live-group.module';
     ContactUsComponent,
     SermonListsComponent,
     AboutEventsComponent,
-    XmasComponent,
-    LiveGroupComponent
+    XmasComponent
   ],
   imports: [
     BrowserModule,

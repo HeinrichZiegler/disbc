@@ -13,8 +13,7 @@ export class LiveGroupComponent implements OnInit {
   public youtubeUrl = "https://www.youtube.com/watch?v=2dZT9GShJ3A&t=190s";
   public youtubeId: String; // = "nLhsCutSrag";
   public embedUrl = "https://www.youtube.com/embed/";
-  public groupsForDisplay = new Array();
-  public groups: string[] = [];
+  public groups = new Array();
 
   videoUrl: string;
 
@@ -36,16 +35,15 @@ export class LiveGroupComponent implements OnInit {
       console.log("Before conversion");
       for (let g = 0; g < data.liveEvents.length; ++g) {
 
-        if(!this.groups.find(e => e === data.liveEvents[g].group)) {
-          this.groups.push(data.liveEvents[g].group)
-        }  
-
-      }
-      for (let g = 0; g < this.groups.length; ++g) {
-        if (g % 3 === 0) {
-          this.groupsForDisplay.push(new Array());
+        //if(!this.groups.find(e => e === data.liveEvents[g].group)) {
+        if (data.liveEvents[g].image != undefined) {
+          this.groups.push({
+            group: data.liveEvents[g].group,
+            image: "assets/live/" + data.liveEvents[g].image,
+            text: data.liveEvents[g].text
+          })
         }
-        this.groupsForDisplay[Math.floor(g / 3)].push(this.groups[g]);
+
       }
       console.log("After conversion");
       console.log(this.groups);
@@ -54,5 +52,5 @@ export class LiveGroupComponent implements OnInit {
 
 
 
-  
+
 }

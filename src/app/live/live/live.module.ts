@@ -9,8 +9,8 @@ import { LiveRoutingModule } from './live-routing.module';
 
 @NgModule({
   declarations: [LiveComponent,
-    SafeUrlPipe,
-    LivePlayComponent],
+    LivePlayComponent,
+    SafeUrlPipe],
   imports: [
     CommonModule,
     LiveRoutingModule
