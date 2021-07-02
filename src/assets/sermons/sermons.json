@@ -6,7 +6,12 @@
       "image": "som.jpg",
       "description": "Sermon On The Mount Series: Mathew 5 & 6",
       "date": "Janurary 2021",
-      "sermons": [      
+      "sermons": [  
+        {
+          "file": "July 04, 2021.mp3",
+          "title": "Sermon on the Mount: Daily Bread",
+          "date": "July 04, 2021"
+        },     
         {
           "file": "June 27, 2021.mp3",
           "title": "Sermon on the Mount: Will Be Done",
