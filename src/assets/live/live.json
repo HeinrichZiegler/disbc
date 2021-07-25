@@ -1,7 +1,15 @@
 {
     "liveEvents": [
         {
-            "title": "S O T M: For We Forgive",
+            "title": "S O T M: Lead us Not...",
+            "description": "Sermon On the Mount: Mathew 6:9-13",
+            "date": "25-July-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "bioMgrwwMaI",
+            "group": "Sermon On The Mount"
+        },
+        {
+            "title": "S O T M: As We Forgive",
             "description": "Sermon On the Mount: Mathew 6:9-13",
             "date": "18-July-2021",
             "time": "9:30-10:30",
