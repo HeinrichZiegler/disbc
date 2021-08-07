@@ -1,17 +1,26 @@
 {
   "motives": [
     {
+      "title": "Psalms",
+      "folder": "psalms",
+      "image": "psalms.jpg",
+      "description": "Short Series on Psalms Summer 2021",
+      "date": "Aug 2021",
+      "sermons": [
+        {
+          "file": "Aug 08, 2021.mp3",
+          "title": "A Psalm of Praise: Psalm 145",
+          "date": "Aug 08, 2021"
+        }
+      ]
+    },
+    {
       "title": "Sermon On The Mount",
       "folder": "som",
       "image": "som.jpg",
       "description": "Sermon On The Mount Series: Mathew 5 & 6",
       "date": "Janurary 2021",
-      "sermons": [  
-        {
-          "file": "Aug 08, 2021.mp3",
-          "title": "A Psalm of Praise: Psalm 145",
-          "date": "Aug 08, 2021"
-        },
+      "sermons": [
         {
           "file": "Aug 01, 2021.mp3",
           "title": "Sermon on the Mount: Deliver Us...",
@@ -31,17 +40,17 @@
           "file": "July 11, 2021.mp3",
           "title": "Sermon on the Mount: Forgive Us",
           "date": "July 11, 2021"
-        }, 
+        },
         {
           "file": "July 04, 2021.mp3",
           "title": "Sermon on the Mount: Daily Bread",
           "date": "July 04, 2021"
-        },     
+        },
         {
           "file": "June 27, 2021.mp3",
           "title": "Sermon on the Mount: Will Be Done",
           "date": "June 27, 2021"
-        },  
+        },
         {
           "file": "June 20, 2021.mp3",
           "title": "Sermon on the Mount: Kingdom Come",
