@@ -1,5 +1,13 @@
 {
-    "liveEvents": [        
+    "liveEvents": [          
+        {
+            "title": "A Nature Psalm",
+            "description": "A Nature Psalm: Psalm 29",
+            "date": "15-Aug-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "xmrle6Zq87c",
+            "group": "Summer Psalms 2021"
+        },      
         {
             "title": "A Psalm of Praise",
             "description": "A Psalm of Praise: Psalm 145",
