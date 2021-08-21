@@ -1,5 +1,13 @@
 {
-    "liveEvents": [          
+    "liveEvents": [        
+        {
+            "title": "A Wisdom Psalm",
+            "description": "A Wisdom Psalm: Psalm 49",
+            "date": "22-Aug-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "W_cZdtYNLmk",
+            "group": "Summer Psalms 2021"
+        },          
         {
             "title": "A Nature Psalm",
             "description": "A Nature Psalm: Psalm 29",
