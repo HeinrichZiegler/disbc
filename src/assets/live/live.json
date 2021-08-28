@@ -1,5 +1,13 @@
 {
-    "liveEvents": [        
+    "liveEvents": [          
+        {
+            "title": "A Messianic Psalm",
+            "description": "A Messianic Psalm: Psalm 22",
+            "date": "29-Aug-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "xH9ni_-zQJY",
+            "group": "Summer Psalms 2021"
+        },      
         {
             "title": "A Wisdom Psalm",
             "description": "A Wisdom Psalm: Psalm 49",
