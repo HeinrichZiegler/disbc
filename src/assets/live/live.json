@@ -44,7 +44,14 @@
             "image": "psalms.jpg",
             "text": "A short series through some helpful Psalms during the 2021 summer break."
         },
-
+        {
+            "title": "S O T M: Deliver Us...",
+            "description": "Sermon On the Mount: Mathew 6:9-13",
+            "date": "01-Aug-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "SjVz0MruOsU",
+            "group": "Sermon On The Mount"
+        },
         {
             "title": "S O T M: Lead us Not...",
             "description": "Sermon On the Mount: Mathew 6:9-13",
