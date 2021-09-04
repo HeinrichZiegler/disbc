@@ -1,5 +1,15 @@
 {
-    "liveEvents": [          
+    "liveEvents": [        
+        {
+            "title": "S O T M: Treasures",
+            "description": "Sermon On the Mount: Mathew 6:19-21",
+            "date": "0-Sep-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "e2SXQXflhrM",
+            "group": "Sermon On The Mount",
+            "image": "SOTM.jpg",
+            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
+        },          
         {
             "title": "A Messianic Psalm",
             "description": "A Messianic Psalm: Psalm 22",
@@ -34,14 +44,7 @@
             "image": "psalms.jpg",
             "text": "A short series through some helpful Psalms during the 2021 summer break."
         },
-        {
-            "title": "S O T M: Deliver Us...",
-            "description": "Sermon On the Mount: Mathew 6:9-13",
-            "date": "01-Aug-2021",
-            "time": "9:30-10:30",
-            "liveStreamId": "SjVz0MruOsU",
-            "group": "Sermon On The Mount"
-        },
+
         {
             "title": "S O T M: Lead us Not...",
             "description": "Sermon On the Mount: Mathew 6:9-13",
@@ -168,9 +171,7 @@
             "date": "11-April-2021",
             "time": "9:30-10:30",
             "liveStreamId": "nGfH9TNcsqM",
-            "group": "Sermon On The Mount",
-            "image": "SOTM.jpg",
-            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
+            "group": "Sermon On The Mount"
         },
         {
             "title": "Easter: Risen Indeed",
