@@ -1,6 +1,14 @@
 {
     "liveEvents": [        
         {
+            "title": "S O T M: Two Masters",
+            "description": "Sermon On the Mount: Mathew 6:22-24",
+            "date": "12-Sep-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "VcHB2V-w_VI",
+            "group": "Sermon On The Mount"
+        },           
+        {
             "title": "S O T M: Treasures",
             "description": "Sermon On the Mount: Mathew 6:19-21",
             "date": "0-Sep-2021",
