@@ -1,5 +1,14 @@
 {
-    "liveEvents": [        
+    "liveEvents": [{
+            "title": "Not in Vain",
+            "description": "Bicentenial Celebrations Iona Station Baptist Church",
+            "date": "17-Sep-2021",
+            "time": "11:15-12:15",
+            "liveStreamId": "zbaX-YGI-68",
+            "group": "Bicentenial",
+            "image": "IonaStationChurch.jpg",
+            "text": "Bicentenial Celebrations Iona Station Baptist Church, Sept 2021"
+        },
         {
             "title": "S O T M: Two Masters",
             "description": "Sermon On the Mount: Mathew 6:22-24",
@@ -7,17 +16,17 @@
             "time": "9:30-10:30",
             "liveStreamId": "VcHB2V-w_VI",
             "group": "Sermon On The Mount"
-        },           
+        },
         {
             "title": "S O T M: Treasures",
             "description": "Sermon On the Mount: Mathew 6:19-21",
-            "date": "0-Sep-2021",
+            "date": "3-Sep-2021",
             "time": "9:30-10:30",
             "liveStreamId": "e2SXQXflhrM",
             "group": "Sermon On The Mount",
             "image": "SOTM.jpg",
             "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
-        },          
+        },
         {
             "title": "A Messianic Psalm",
             "description": "A Messianic Psalm: Psalm 22",
@@ -25,7 +34,7 @@
             "time": "9:30-10:30",
             "liveStreamId": "xH9ni_-zQJY",
             "group": "Summer Psalms 2021"
-        },      
+        },
         {
             "title": "A Wisdom Psalm",
             "description": "A Wisdom Psalm: Psalm 49",
@@ -33,7 +42,7 @@
             "time": "9:30-10:30",
             "liveStreamId": "W_cZdtYNLmk",
             "group": "Summer Psalms 2021"
-        },          
+        },
         {
             "title": "A Nature Psalm",
             "description": "A Nature Psalm: Psalm 29",
@@ -41,7 +50,7 @@
             "time": "9:30-10:30",
             "liveStreamId": "xmrle6Zq87c",
             "group": "Summer Psalms 2021"
-        },      
+        },
         {
             "title": "A Psalm of Praise",
             "description": "A Psalm of Praise: Psalm 145",
