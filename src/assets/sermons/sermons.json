@@ -1,23 +1,16 @@
 {
     "motives": [{
-            "title": "Bicentenial Celebration Iona Station Baptist Church",
-            "folder": "misc",
-            "image": "IonaStationChurch.jpg",
-            "description": "Bicentenial Celebration Iona Station Baptist Church: 1 Corinthians 15:58",
-            "date": "September 2021",
-            "sermons": [{
-                "file": "Sep 19, 2021.mp3",
-                "title": "Bicentenial Celebration: 1 Corinthians 15:58",
-                "date": "Sep 19, 2021"
-            }]
-        },
-        {
             "title": "Sermon On The Mount",
             "folder": "som",
             "image": "som.jpg",
             "description": "Sermon On The Mount Series: Mathew 5 & 6",
             "date": "Janurary 2021",
             "sermons": [{
+                    "file": "Sep 26, 2021.mp3",
+                    "title": "Sermon on the Mount: Don't be Anxious",
+                    "date": "Sep 26, 2021"
+                },
+                {
                     "file": "Sep 12, 2021.mp3",
                     "title": "Sermon on the Mount: Two Masters",
                     "date": "Sep 12, 2021"
@@ -178,6 +171,18 @@
                     "date": "Jan 03, 2021"
                 }
             ]
+        },
+        {
+            "title": "Bicentenial Celebration Iona Station Baptist Church",
+            "folder": "misc",
+            "image": "IonaStationChurch.jpg",
+            "description": "Bicentenial Celebration Iona Station Baptist Church: 1 Corinthians 15:58",
+            "date": "September 2021",
+            "sermons": [{
+                "file": "Sep 19, 2021.mp3",
+                "title": "Bicentenial Celebration: 1 Corinthians 15:58",
+                "date": "Sep 19, 2021"
+            }]
         },
         {
             "title": "Psalms",

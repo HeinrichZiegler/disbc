@@ -1,5 +1,15 @@
 {
     "liveEvents": [{
+            "title": "S O T M: Don't be Anxious",
+            "description": "Sermon On the Mount: Mathew 6:25-34",
+            "date": "3-Sep-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "6VN2TaH0V_Q",
+            "group": "Sermon On The Mount",
+            "image": "SOTM.jpg",
+            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
+        },
+        {
             "title": "Not in Vain",
             "description": "Bicentenial Celebrations Iona Station Baptist Church",
             "date": "17-Sep-2021",
@@ -23,9 +33,7 @@
             "date": "3-Sep-2021",
             "time": "9:30-10:30",
             "liveStreamId": "e2SXQXflhrM",
-            "group": "Sermon On The Mount",
-            "image": "SOTM.jpg",
-            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
+            "group": "Sermon On The Mount"
         },
         {
             "title": "A Messianic Psalm",
