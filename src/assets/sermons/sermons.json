@@ -6,6 +6,16 @@
             "description": "Sermon On The Mount Series: Mathew 5 & 6",
             "date": "Janurary 2021",
             "sermons": [{
+                    "file": "Oct 10, 2021.mp3",
+                    "title": "Sermon on the Mount: Perls to Pigs",
+                    "date": "Oct 10, 2021"
+                },
+                {
+                    "file": "Oct 03, 2021.mp3",
+                    "title": "Sermon on the Mount: Judge Not",
+                    "date": "Oct 03, 2021"
+                },
+                {
                     "file": "Sep 26, 2021.mp3",
                     "title": "Sermon on the Mount: Don't be Anxious",
                     "date": "Sep 26, 2021"

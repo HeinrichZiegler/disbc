@@ -1,8 +1,24 @@
 {
     "liveEvents": [{
+            "title": "S O T M: Perls to Pigs",
+            "description": "Sermon On the Mount: Mathew 7:6",
+            "date": "10-Oct-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "xLXqNUUpS9o",
+            "group": "Sermon On The Mount"
+        },
+        {
+            "title": "S O T M: Judge Not",
+            "description": "Sermon On the Mount: Mathew 7:1-5",
+            "date": "03-Oct-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "02ICEmw83XQ",
+            "group": "Sermon On The Mount"
+        },
+        {
             "title": "S O T M: Don't be Anxious",
             "description": "Sermon On the Mount: Mathew 6:25-34",
-            "date": "3-Sep-2021",
+            "date": "26-Sep-2021",
             "time": "9:30-10:30",
             "liveStreamId": "6VN2TaH0V_Q",
             "group": "Sermon On The Mount",
@@ -12,7 +28,7 @@
         {
             "title": "Not in Vain",
             "description": "Bicentenial Celebrations Iona Station Baptist Church",
-            "date": "17-Sep-2021",
+            "date": "19-Sep-2021",
             "time": "11:15-12:15",
             "liveStreamId": "zbaX-YGI-68",
             "group": "Bicentenial",
