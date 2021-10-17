@@ -3,9 +3,14 @@
             "title": "Sermon On The Mount",
             "folder": "som",
             "image": "som.jpg",
-            "description": "Sermon On The Mount Series: Mathew 5 & 6",
+            "description": "Sermon On The Mount Series: Mathew 5 & 6 & 7",
             "date": "Janurary 2021",
             "sermons": [{
+                    "file": "Oct 17, 2021.mp3",
+                    "title": "Sermon on the Mount: Ask, Seek, Knock",
+                    "date": "Oct 17, 2021"
+                },
+                {
                     "file": "Oct 10, 2021.mp3",
                     "title": "Sermon on the Mount: Perls to Pigs",
                     "date": "Oct 10, 2021"
