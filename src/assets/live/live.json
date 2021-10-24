@@ -1,5 +1,13 @@
 {
     "liveEvents": [{
+            "title": "S O T M: The Golden Rule",
+            "description": "Sermon On the Mount: Mathew 7:12",
+            "date": "24-Oct-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "YbnCOiRGUx4",
+            "group": "Sermon On The Mount"
+        },
+        {
             "title": "S O T M: Ask, Seek, Knock",
             "description": "Sermon On the Mount: Mathew 7:7-11",
             "date": "17-Oct-2021",
