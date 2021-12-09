@@ -1,5 +1,38 @@
 {
     "motives": [{
+            "title": "Songs of Christmas Series",
+            "folder": "christmas",
+            "image": "christmas.png",
+            "description": "Songs of Christmas Series",
+            "date": "Dezember 2020 and December 2021",
+            "sermons": [{
+                    "file": "Dec 05, 2021.mp3",
+                    "title": "SERIES:  The Songs of Christmas: What Child is This?",
+                    "date": "Dec 05, 2021"
+                },
+                {
+                    "file": "Dec 20, 2020.mp3",
+                    "title": "SERIES:  The Songs of Christmas: Who is He?",
+                    "date": "Dec 20, 2020"
+                },
+                {
+                    "file": "Dec 13, 2020.mp3",
+                    "title": "SERIES:  The Songs of Christmas: Hark!",
+                    "date": "Dec 13, 2020"
+                },
+                {
+                    "file": "Dec 06, 2020.mp3",
+                    "title": "SERIES:  The Songs of Christmas: Bethlehem",
+                    "date": "Dec 06, 2020"
+                },
+                {
+                    "file": "Nov 29, 2020.mp3",
+                    "title": "SERIES:  The Songs of Christmas: Come",
+                    "date": "Nov 29, 2020"
+                }
+            ]
+        },
+        {
             "title": "Sermon On The Mount",
             "folder": "som",
             "image": "som.jpg",
@@ -279,34 +312,6 @@
                     "file": "Dec 27, 2020.mp3",
                     "title": "Not Why? But What? John 9:1-5",
                     "date": "Dec 27, 2020"
-                }
-            ]
-        },
-        {
-            "title": "Songs of Christmas Series",
-            "folder": "christmas",
-            "image": "christmas.png",
-            "description": "Songs of Christmas Series",
-            "date": "Dezember 2020",
-            "sermons": [{
-                    "file": "Dec 20, 2020.mp3",
-                    "title": "SERIES:  The Songs of Christmas: Who is He?",
-                    "date": "Dec 20, 2020"
-                },
-                {
-                    "file": "Dec 13, 2020.mp3",
-                    "title": "SERIES:  The Songs of Christmas: Hark!",
-                    "date": "Dec 13, 2020"
-                },
-                {
-                    "file": "Dec 06, 2020.mp3",
-                    "title": "SERIES:  The Songs of Christmas: Bethlehem",
-                    "date": "Dec 06, 2020"
-                },
-                {
-                    "file": "Nov 29, 2020.mp3",
-                    "title": "SERIES:  The Songs of Christmas: Come",
-                    "date": "Nov 29, 2020"
                 }
             ]
         },

@@ -1,11 +1,23 @@
 {
     "liveEvents": [{
+            "title": "The Songs of Christmas: What Child is This?",
+            "description": "SERIES: The Songs of Christmas: What Child is This?",
+            "date": "05-Dec-2021",
+            "time": "9:30-10:30",
+            "liveStreamId": "8gMrtCgf-ZU",
+            "group": "Christmas 2021",
+            "image": "Christmas.jpg",
+            "text": "Study with us 2 great Christmas hymns during these 2021 Christmas sermons."
+        },
+        {
             "title": "S O T M: Two Houses",
             "description": "Sermon On the Mount: Mathew 7:24-29",
             "date": "21-Nov-2021",
             "time": "9:30-10:30",
             "liveStreamId": "8ikHMcfSED4",
-            "group": "Sermon On The Mount"
+            "group": "Sermon On The Mount",
+            "image": "SOTM.jpg",
+            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
         },
         {
             "title": "S O T M: Two Claims",
@@ -69,9 +81,7 @@
             "date": "26-Sep-2021",
             "time": "9:30-10:30",
             "liveStreamId": "6VN2TaH0V_Q",
-            "group": "Sermon On The Mount",
-            "image": "SOTM.jpg",
-            "text": "A verse by verse study of Jesus' great Sermon, and what is means for us in our lives as Christians."
+            "group": "Sermon On The Mount"
         },
         {
             "title": "Not in Vain",
